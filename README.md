@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="">
+  <img alt="Projeto" src="https://raw.githubusercontent.com/Vinicius-Barbosa-Santos/react_jogo_da_memoria/main/projeto.png">
 </p>
 
 <br>
