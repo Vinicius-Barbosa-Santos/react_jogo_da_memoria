@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevMemory é um app que foi constrúido para estudo, o objetivo do projeto era fazer um jogo da memória em React.
+O DevMemory é um aplicativo desenvolvido com propósitos educacionais, tendo como objetivo a criação de um jogo da memória utilizando React. O projeto foi concebido com a finalidade principal de proporcionar prática e aprendizado na implementação de um jogo de memória utilizando essa tecnologia específica.
 
 ## 🚀 Como executar
 
